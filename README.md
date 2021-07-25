@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harveyjones01
-- 👀 I’m interested in Web developent.
-- 🌱 I’m currently learning various backend technologies.
+- 👀 I’m interested in software developent.
+- 🌱 I’m currently learning golang.
 - 📫 How to reach me @harvey_jones2001 on instagram.
 
 <!---
